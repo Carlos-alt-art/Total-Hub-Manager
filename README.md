@@ -1,6 +1,6 @@
 # 📱 Total Hub Manager (THM)
-
 **Aplicación móvil empresarial** que combina la funcionalidad de un **PDA (Asistente Digital Personal)** y un **TPV (Punto de Venta)**.  
+
 Diseñada para optimizar operaciones tanto en empresas como para emprendedores que requieren soluciones móviles ágiles y eficientes.
 
 🌐 **Demo pública:**  
