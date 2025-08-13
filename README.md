@@ -28,12 +28,12 @@ Ideal para tiendas, almacenes, ferias o negocios móviles que buscan profesional
 
 - **Flutter** – Framework multiplataforma para desarrollo móvil.
 - **Dart** – Lenguaje principal del proyecto.
+- **Firebase** - Como base de datos y almacenamiento.
 - **Vercel** – Hosting para la versión web/demostración.
-- *(Puedes agregar más tecnologías si usas backend, base de datos, auth, etc.)*
 
 ---
 
-## 📦 Funcionalidades destacadas
+## 📦 Futuras actualizaciones
 
 - 📦 Gestión dinámica de inventario y productos  
 - 🧾 Registro de ventas con comprobantes digitales  
@@ -47,7 +47,7 @@ Ideal para tiendas, almacenes, ferias o negocios móviles que buscan profesional
 
 ## 🛠️ Estado del proyecto
 
-`[ ] Idea` | `[x] En desarrollo` | `[ ] MVP terminado` | `[ ] En producción`
+`[ ] Idea` | `[x] En desarrollo` | `[ ] Terminado` | `[ ] En producción`
 
 ---
 
