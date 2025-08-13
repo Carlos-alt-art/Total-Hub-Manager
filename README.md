@@ -1,7 +1,16 @@
 # 📱 Total Hub Manager (THM)
 **Aplicación móvil empresarial** que combina la funcionalidad de un **PDA (Asistente Digital Personal)** y un **TPV (Punto de Venta)**.  
 
+![Captura Principal de la interfaz](src/img1.png)
+
 Diseñada para optimizar operaciones tanto en empresas como para emprendedores que requieren soluciones móviles ágiles y eficientes.
+
+
+![Captura de la interfaz del inventario (Versión Escritorio)](src/img2.png)
+
+<p align="center">
+  <img src="src/img3.png" alt="Captura de la interfaz del inventario (Versión móvil)">
+</p>
 
 🌐 **Demo pública:**  
 👉 [total-hub-manager.vercel.app](https://total-hub-manager.vercel.app)
